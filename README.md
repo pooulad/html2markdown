@@ -46,9 +46,9 @@ Follow these steps to get the project running locally:
 
 ## 🌄 Screenshot
 
-![HTML to Markdown Converter Screenshot-light mode](https://github.com/pooulad/html2markdown/blob/main/assets/imags/screenshot_light.png)
+![HTML to Markdown Converter Screenshot-light mode](https://github.com/pooulad/html2markdown/blob/main/assets/images/screenshot_light.png)
 
-![HTML to Markdown Converter Screenshot-dark mode](https://github.com/pooulad/html2markdown/blob/main/assets/imags/screenshot_dark.png)
+![HTML to Markdown Converter Screenshot-dark mode](https://github.com/pooulad/html2markdown/blob/main/assets/images/screenshot_dark.png)
 
 ## 🛡️ Technologies Used
 
