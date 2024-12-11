@@ -13,7 +13,7 @@ A simple, fast web-based tool to convert HTML content into Markdown format. The 
 
 ## 🚀 Live Demo
 
-Check out the live demo of the converter: **[Live Demo](#)**
+Check out the live demo of the converter: **[Live Demo](https://)**
 
 ## 🛠 Installation
 
@@ -46,9 +46,9 @@ Follow these steps to get the project running locally:
 
 ## 🌄 Screenshot
 
-![HTML to Markdown Converter Screenshot-light mode](https://github.com/pooulad/html2markdown/blob/assets/imags/screenshot_light.png)
+![HTML to Markdown Converter Screenshot-light mode](https://github.com/pooulad/html2markdown/blob/main/assets/imags/screenshot_light.png)
 
-![HTML to Markdown Converter Screenshot-dark mode](https://github.com/pooulad/html2markdown/blob/assets/imags/screenshot_dark.png)
+![HTML to Markdown Converter Screenshot-dark mode](https://github.com/pooulad/html2markdown/blob/main/assets/imags/screenshot_dark.png)
 
 ## 🛡️ Technologies Used
 
